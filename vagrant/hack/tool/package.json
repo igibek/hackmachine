@@ -1,0 +1,16 @@
+{
+  "name": "hack",
+  "version": "0.1.0",
+  "description": "Hacking Automation Tool",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Igibek Koishybayev",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^6.2.0",
+    "shelljs": "^0.8.4"
+  }
+}
