@@ -1,5 +1,8 @@
 # hackerify
 
+## Input testings
+1. Polyglot inputs:`<s>000'")};--//`
+
 ## Tools for reconnaissance
 
 1. uniscan - useful for fingerprinting the webserver. The uniscan comes by default with Kali
