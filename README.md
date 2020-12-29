@@ -27,6 +27,10 @@
 
 1. In Kali you can change your MAC address
 
+## Exploitation tools
+
+1. weevely - generate the PHP reverse shell script for file inclusion vulnerabilities. By default comes with KALI.
+
 ## Windows
 
 1. nishang - is a framework and collection of scripts and payloads which enables usage of PowerShell for offensive security, penetration testing and red teaming. Nishang is useful during all phases of penetration testing. [Github link](https://github.com/samratashok/nishang)
