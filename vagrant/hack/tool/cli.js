@@ -25,7 +25,8 @@ program.parse(process.argv)
 function main(project) {
     console.log(chalk.yellow('START:'), `automation for the project ${project}`);
     let dir = path.resolve(`./${project}`);
-    if (fs.existsSync(dir)) {
-        
+    if (!fs.existsSync(dir)) {
+        fs.mkdirSync(dir, {recursive: true});
     }
+    process.chdir(dir);
 }
