@@ -22,6 +22,7 @@
 ## Wordlist
 
 1. Assetnote organization provides list of wordlist. Link to the organization: [here](https://github.com/assetnote)
+2. crunch - can generate automatically the wordlist
 
 ## Tips for KALI
 
@@ -30,6 +31,7 @@
 ## Exploitation tools
 
 1. weevely - generate the PHP reverse shell script for file inclusion vulnerabilities. By default comes with KALI.
+2. hydra - tool for the brute force attack
 
 ## Windows
 
